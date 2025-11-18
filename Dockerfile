@@ -1,6 +1,6 @@
 FROM alpine:3.22 AS builder
 
-ARG MOTIS_VERSION=v2.7.4
+ARG MOTIS_VERSION=v2.7.5
 
 WORKDIR /build
 
